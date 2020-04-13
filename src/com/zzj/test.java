@@ -8,4 +8,8 @@ public class test {
         System.out.println("1sdsadsadsadsa");
         System.out.println("1sdsadsadsadsa");
     }
+
+    public static void yi(){
+        System.out.println("aaaa");
+    }
 }
