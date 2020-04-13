@@ -10,6 +10,8 @@ public class test {
     }
 
     public static void yi(){
-        System.out.println("aaaa");
+        if(true){
+            System.out.println("aaaa");
+        }
     }
 }
